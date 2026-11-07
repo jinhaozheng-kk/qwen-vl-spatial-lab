@@ -1,0 +1,322 @@
+[
+  {
+    "id": "test-031",
+    "task": "pair",
+    "gold": "YES",
+    "prediction": "YES",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 128
+  },
+  {
+    "id": "test-014",
+    "task": "single",
+    "gold": "BELOW",
+    "prediction": "Below",
+    "semantic": true,
+    "exact": false,
+    "format": false,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-009",
+    "task": "pair",
+    "gold": "NO",
+    "prediction": "NO",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 128
+  },
+  {
+    "id": "test-024",
+    "task": "single",
+    "gold": "LEFT",
+    "prediction": "LEFT",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-011",
+    "task": "pair",
+    "gold": "YES",
+    "prediction": "NO",
+    "semantic": false,
+    "exact": false,
+    "format": true,
+    "image_tokens": 128
+  },
+  {
+    "id": "test-027",
+    "task": "pair",
+    "gold": "YES",
+    "prediction": "YES",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 128
+  },
+  {
+    "id": "test-012",
+    "task": "single",
+    "gold": "ABOVE",
+    "prediction": "Above",
+    "semantic": true,
+    "exact": false,
+    "format": false,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-001",
+    "task": "pair",
+    "gold": "YES",
+    "prediction": "YES",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 128
+  },
+  {
+    "id": "test-026",
+    "task": "single",
+    "gold": "RIGHT",
+    "prediction": "RIGHT",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-018",
+    "task": "single",
+    "gold": "RIGHT",
+    "prediction": "RIGHT",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-023",
+    "task": "pair",
+    "gold": "NO",
+    "prediction": "NO",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 128
+  },
+  {
+    "id": "test-008",
+    "task": "single",
+    "gold": "LEFT",
+    "prediction": "LEFT",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-017",
+    "task": "pair",
+    "gold": "YES",
+    "prediction": "YES",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 128
+  },
+  {
+    "id": "test-030",
+    "task": "single",
+    "gold": "BELOW",
+    "prediction": "Below",
+    "semantic": true,
+    "exact": false,
+    "format": false,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-002",
+    "task": "single",
+    "gold": "RIGHT",
+    "prediction": "RIGHT",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-013",
+    "task": "pair",
+    "gold": "NO",
+    "prediction": "NO",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 128
+  },
+  {
+    "id": "test-016",
+    "task": "single",
+    "gold": "LEFT",
+    "prediction": "LEFT",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-010",
+    "task": "single",
+    "gold": "RIGHT",
+    "prediction": "RIGHT",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-000",
+    "task": "single",
+    "gold": "LEFT",
+    "prediction": "LEFT",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-003",
+    "task": "pair",
+    "gold": "NO",
+    "prediction": "YES",
+    "semantic": false,
+    "exact": false,
+    "format": true,
+    "image_tokens": 128
+  },
+  {
+    "id": "test-004",
+    "task": "single",
+    "gold": "ABOVE",
+    "prediction": "Above",
+    "semantic": true,
+    "exact": false,
+    "format": false,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-025",
+    "task": "pair",
+    "gold": "NO",
+    "prediction": "YES",
+    "semantic": false,
+    "exact": false,
+    "format": true,
+    "image_tokens": 128
+  },
+  {
+    "id": "test-020",
+    "task": "single",
+    "gold": "ABOVE",
+    "prediction": "Above",
+    "semantic": true,
+    "exact": false,
+    "format": false,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-005",
+    "task": "pair",
+    "gold": "YES",
+    "prediction": "YES",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 128
+  },
+  {
+    "id": "test-022",
+    "task": "single",
+    "gold": "BELOW",
+    "prediction": "Below",
+    "semantic": true,
+    "exact": false,
+    "format": false,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-029",
+    "task": "pair",
+    "gold": "NO",
+    "prediction": "NO",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 128
+  },
+  {
+    "id": "test-015",
+    "task": "pair",
+    "gold": "YES",
+    "prediction": "YES",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 128
+  },
+  {
+    "id": "test-006",
+    "task": "single",
+    "gold": "BELOW",
+    "prediction": "Below",
+    "semantic": true,
+    "exact": false,
+    "format": false,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-007",
+    "task": "pair",
+    "gold": "NO",
+    "prediction": "NO",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 128
+  },
+  {
+    "id": "test-028",
+    "task": "single",
+    "gold": "ABOVE",
+    "prediction": "Above",
+    "semantic": true,
+    "exact": false,
+    "format": false,
+    "image_tokens": 64
+  },
+  {
+    "id": "test-019",
+    "task": "pair",
+    "gold": "NO",
+    "prediction": "YES",
+    "semantic": false,
+    "exact": false,
+    "format": true,
+    "image_tokens": 128
+  },
+  {
+    "id": "test-021",
+    "task": "pair",
+    "gold": "YES",
+    "prediction": "YES",
+    "semantic": true,
+    "exact": true,
+    "format": true,
+    "image_tokens": 128
+  }
+]
